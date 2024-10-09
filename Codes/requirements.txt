@@ -1,0 +1,9 @@
+streamlit==1.39.0
+opencv-python-headless==4.10.0.84
+ultralytics==8.0.229
+pandas==2.1.4
+plotly==5.18.0
+PyYAML==6.0.1
+numpy==1.26.2
+requests==2.31.0
+lapx
